@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **Angela-San/Angela-San** is a ✨ _special_ ✨ repository where you can get to know me bettet at a glance.
 
 A little bit about me:
@@ -13,4 +11,6 @@ A little bit about me:
 - 📫 How to reach me: ...https://www.linkedin.com/in/angela-sanchezs/
 - 😄 Pronouns: ...She / Her
 - ⚡ Fun fact: ...I love swimming 🏊‍♀️
+<!--
+
 
