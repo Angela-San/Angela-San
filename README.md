@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Angela-San/Angela-San** is a ✨ _special_ ✨ repository where you can get to know me bettet at a glance.
+**Angela-San** is a ✨ _special_ ✨ repository where you can get to know me bettet at a glance.
 
 A little bit about me:
 
